@@ -30,11 +30,11 @@ II'll start the hack by proposing a general and graphical idea of how would I ma
 ### 7. Cheapest Renting:
 * This one shows the student the cheapest places to live in Chicago with a list of those places and the prices average.
 
-###8. Recomended Renting Options:
+### 8. Recomended Renting Options:
 * Based on safety, prices, distance from the Illinois University and climate, this will show two renting recommendations to the student for living.
 
-###9. Safest Renting:
+### 9. Safest Renting:
 *  This one shows the student the places are renting and are not dangerous to live in Chicago. The component will show a top list of the places with this characteristic and each place will have a respective rate.
 
-###10. Map:
+### 10. Map:
 * The map tells the student hi's actual location. Using d3.js and Google Maps it will be the principal component at the home page.
