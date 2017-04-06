@@ -40,4 +40,4 @@ II'll start the hack by proposing a general and graphical idea of how would I ma
 * The map tells the student hi's actual location. Using d3.js and Google Maps it will be the principal component at the home page.
 
 ## Update:
-* Creating the API: inside the IllinoiStudent folder run "npm install" and "npm start" and try the app progress in http://localhost:1234/
+* Creating the API: Run "npm install" and "npm start" and try the app progress in http://localhost:1234/
